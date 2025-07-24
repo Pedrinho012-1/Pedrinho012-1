@@ -9,7 +9,7 @@ Eu chamo Pedro Paulo, tenho 19 anos e sou natural de Jaú, São Paulo. Concluí 
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
    <a href="https://www.instagram.com/pedr_opaulo012/">
