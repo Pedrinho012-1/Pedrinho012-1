@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Eu chamo Pedro Paulo, tenho 19 anos e sou natural de Jaú, São Paulo. Concluí o ensino médio e atualmente curso **Desenvolvimento de Software Multiplataforma (SDM)** na **Fatec**, além de ter me especializado no curso tecnico de **Operador de Suporte Técnico em TI** pelo **SENAI**
+Eu chamo Pedro Paulo, tenho 19 anos e sou natural de Jaú, São Paulo. Concluí o ensino médio e atualmente curso **Desenvolvimento de Software Multiplataforma (DSM)** na **Fatec**, além de ter me especializado no curso tecnico de **Operador de Suporte Técnico em TI** pelo **SENAI**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pedro-paulo-00114a256/">
